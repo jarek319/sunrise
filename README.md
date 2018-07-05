@@ -1,2 +1,2 @@
 # sunrise
-A Wifi-enabled sunrise alarm clock
+An OLED driver that simulates the rising sun
